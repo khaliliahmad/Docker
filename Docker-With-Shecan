@@ -1,4 +1,3 @@
-```markdown
 # Bash Script for DNS Configuration and Docker Installation
 
 You can create a Bash script that performs the desired steps for configuring DNS settings and installing Docker. Below is an example of this script:
