@@ -45,13 +45,4 @@ echo "DNS settings restored to default."
 - **Step 5**: Restores the DNS settings to default and comments out the added lines.
 
 This script will inform you about what is happening at each stage.
-```
 
-### How to Create the Document in GitHub:
-1. **Create a New Repository**: Go to GitHub and create a new repository.
-2. **Create a New File**: Click on "Add file" and select "Create new file".
-3. **Name Your File**: Name it something like `Bash_Script_Installation_Guide.md`.
-4. **Paste the Markdown Content**: Paste the markdown content provided above into the text area.
-5. **Commit Changes**: Scroll down and click "Commit new file".
-
-This will create a properly formatted document in your GitHub repository!
